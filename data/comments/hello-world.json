@@ -1,1 +1,18 @@
-[{"userId":"user-id","name":"The User","avatar":"https://api.adorable.io/avatars/255/the-user@email.png","content":"This is it","createdAt":1598996908369,"id":"Io_nDjGj3i3LeKietl4fa9IGy7Kitw"}]
+[
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "This is it",
+    "createdAt": 1598996908369,
+    "id": "Io_nDjGj3i3LeKietl4fa9IGy7Kitw"
+  },
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "This is another",
+    "createdAt": 1598996950785,
+    "id": "hNi25D0fNG1_pghI5U3jsfU72HZdxm"
+  }
+]
